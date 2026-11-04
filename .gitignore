@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Plan file
+Plan.md
+
+# Data files
+Data/
